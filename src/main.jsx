@@ -46,7 +46,7 @@ function Overlay() {
             
           <footer style={{ position: "absolute", bottom: 20, right: 20, display: "flex", flexDirection: "row"}}>
             <ul style={{ flex: "1 1 0%", fontSize: 12, lineHeight: "1em", textAlign: "right", color: "white" }}>
-              <li><a href="mailto:twizzwrrld@gmail.com">CONTACT</a></li>
+              <li><a href="mailto:yourdockai@proton.me">CONTACT</a></li>
             </ul>
         
           </footer>
