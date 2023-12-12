@@ -1,8 +1,8 @@
 const MIN_RADIUS = 7.5;
 const MAX_RADIUS = 15;
 const DEPTH = 2;
-const LEFT_COLOR = "#AFF9C9";
-const RIGHT_COLOR = "7CF0BD";
+const LEFT_COLOR = "#151E3F";
+const RIGHT_COLOR = "#F2F3D9";
 const NUM_POINTS = 2500;
 
 /**
